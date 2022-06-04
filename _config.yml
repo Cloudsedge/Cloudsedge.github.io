@@ -2,5 +2,5 @@ theme: jekyll-theme-midnight
 title: 学习博客
 deploy：
   type: git
-  repository: https://github.com/Cloudsedge/Cloudsedge.github.io.git
+  repository: git@github.com:Cloudsedge/Cloudsedge.github.io.git
   branch: master
